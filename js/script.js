@@ -9,7 +9,7 @@ console.log(instrument);
 
 const button = document.querySelector("button.login");
 
-console.log(button);
+console.dir(button);
 
 
 // question 3
